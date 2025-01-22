@@ -19,7 +19,7 @@ const greeting = {
   title: "Welcome!",
   sub: "Mohamed Zamil",
   logo_name: "Mohamed Zamil",
-  resumeLink: "",
+  resumeLink: "https://drive.google.com/file/d/14a6u4Zjfckfn2z9830ll8OxeMphnJeU8/view?usp=sharing",
 };
 
 // home logos
